@@ -1,1 +1,5 @@
-
+#Inventory File
+[grafanaMaster]
+sm1.dev.com
+sm2.dev.com
+sm3.dev.com
