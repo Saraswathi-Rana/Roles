@@ -1,1 +1,10 @@
+---
+- hosts: grafanaMaster
+  become: yes
+  become_user: smicro
+  roles:
+  - useradd
+  - grafana
+  - jdk
+  - python
 
