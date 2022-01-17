@@ -1,1 +1,10 @@
+#Vars For Adduser
+user_name: user1
+user_password: "pass"
+
+
+#Vars For Grafana
+grafana_src: https://dl.grafana.com/enterprise/release/grafana-enterprise-8.3.3.linux-amd64.tar.gz
+grafana_admin_password: "mypass"
+
 
