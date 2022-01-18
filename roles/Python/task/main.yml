@@ -1,5 +1,7 @@
 ---
 - name: Install python
+  become: yes
+  become_user: root
   yum:
     name: "{{python_version}}"
     state: present
