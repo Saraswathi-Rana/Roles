@@ -4,7 +4,8 @@ user_password: "pass"
 
 
 #Vars For Grafana
-grafana_src: https://dl.grafana.com/enterprise/release/grafana-enterprise-8.3.3.linux-amd64.tar.gz
+grafana_src: https://dl.grafana.com/enterprise/release/grafana-enterprise-8.1.5.linux-amd64.tar.gz
+grafanaMaster: http://grafanaMaster:3000
 grafana_admin_password: "mypass"
 
 
